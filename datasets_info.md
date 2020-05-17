@@ -102,3 +102,41 @@ lo mismo con 'llamante_provincia_indec_id' y 'llamante_provincia_id'
 
 - Chequear si los datos son iguales en las columnas que cambiaron de nombre antes de mergear
 
+
+# Limpieza
+
+denuncia_fecha                                       2
+denuncia_tipo_explotacion                           43
+denuncia_via_ingreso                                19
+acercamiento_tipo                                    0
+hecho_localidad                                   3845
+hecho_provincia                                   2723
+hecho_pais                                        3786
+denuncia_previa                                   2449
+derivacion_organismo                                69
+derivacion_fecha                                   112
+derivacion_seguimiento                            2836
+llamante_anonimo                                  2835
+llamante_genero                                   2835
+llamante_rango_etario                             2835
+llamante_provincia                                2835
+llamante_es_victima                               2835
+victima_identificada_genero                       2835
+victima_identificada_rango_etario                 2835
+victima_identificada_discapacidad                 2836
+victima_identificada_embarazada                   2837
+victima_identificada_provincia_origen             2835
+victima_cantidad                                  5464
+victima_identificada_nacionalidad                 2835
+denunciado_genero                                 2966
+denunciado_provincia                              2835
+connivencia_fuerzas_seguridad                     2835
+connivencia_poder_politico                        2835
+hecho_provincia_indec_id                          5804
+denunciado_rango_etario                           3766
+victimas_estimadas_cantidad                       3897
+victimas_estimadas_genero                         3897
+victimas_estimadas_rango_etario                   3898
+victimas_estimadas_provincia_hecho                3897
+victima_identificada_provincia_origen_indec_id    5383
+
